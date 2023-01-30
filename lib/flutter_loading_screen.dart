@@ -1,4 +1,10 @@
-/// Loading Screen library by Clounce.com
+/*
+* About author
+* Name - SUBHASH CHANDRA SHUKLA
+* Github - https://github.com/subhashDev11
+* Linked In - https://www.linkedin.com/in/subhashcs/
+* */
+
 library flutter_loading_screen;
 
 /// The abstract MessageState class that extends the Flutter State<T> class

@@ -41,8 +41,6 @@ import 'package:flutter_loading_screen/flutter_loading_screen.dart';
 | navigateToWidget | Function  | dynamic required        | Parameter for navigate to Next page.  |
 | image            | Parameter | assets image (optional) | parameter for background assets image |
 
-```
-
 ## Examples
 
 ```dart

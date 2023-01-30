@@ -1,0 +1,23 @@
+name: flutter_loading_screen
+description: Flutter package for loading screen UI & enent after loading.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+screenshots:
+  - description: 'Example of the flutter loading screen.'
+    path: example/assets/screenshot.gif

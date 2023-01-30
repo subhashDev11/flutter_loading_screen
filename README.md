@@ -3,10 +3,9 @@
 **A flutter package for making beautiful data loading screen with next page route event**
 
 ## Demo
-![ezgif-4-0040112d85](https://user-images.githubusercontent.com/70679949/214622291-47580841-f4ef-45f0-bfec-4e42f51b8625.gif)
+![screenshot](https://user-images.githubusercontent.com/70679949/215478460-e0e80389-4060-49c3-893b-a89ff5e542a8.gif)
 
 ## Features
-
 - Beautiful loading screen UI
 - Event callback after task completion
 - Event navigate to next screen after task complete
@@ -41,11 +40,10 @@ import 'package:flutter_loading_screen/flutter_loading_screen.dart';
 | navigateToWidget | Function  | dynamic required        | Parameter for navigate to Next page.  |
 | image            | Parameter | assets image (optional) | parameter for background assets image |
 
-```
-
 ## Examples
 
 ```dart
+
 import 'dart:core';
 
 import 'package:flutter/material.dart';

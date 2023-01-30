@@ -46,6 +46,7 @@ import 'package:flutter_loading_screen/flutter_loading_screen.dart';
 ## Examples
 
 ```dart
+
 import 'dart:core';
 
 import 'package:flutter/material.dart';
